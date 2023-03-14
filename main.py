@@ -1,7 +1,6 @@
 import PyPDF2
 import os
 import datetime
-import shutil
 from tkinter import Tk
 from tkinter.filedialog import askopenfilenames
 
